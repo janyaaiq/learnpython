@@ -10,11 +10,11 @@
 ```python
 a = 1 #将int数值赋值给变量a
 print(a) #输出变量a的值
-type(a) #查看变量a存储的数据类型
+print(type(a)) #查看变量a存储的数据类型
 
 b = 1.0 #将float数字赋值给变量b
 print(b) #输出变量b的值
-type(b) #查看变量b存储的数据类型
+prin(type(b)) #查看变量b存储的数据类型
 ```
 
 **int和float类型可以相互转换。**
