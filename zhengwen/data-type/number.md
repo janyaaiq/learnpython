@@ -17,10 +17,10 @@ print(b) #输出变量b的值
 type(b) #查看变量b存储的数据类型
 ```
 
-int和float类型可以相互转换。
+**int和float类型可以相互转换。**
 
 ```python
-a = 1
+a = 2.3
 a = float(a) #将a的值从int型转换为float型
 print(a) #输出a的值
 a = int(a) #将a的值从float型转换为int型
