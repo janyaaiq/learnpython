@@ -10,5 +10,4 @@
   * [数字\(Number）](zhengwen/data-type/number.md)
   * [字符串\(String/str\)](zhengwen/data-type/string.md)
   * [列表（List）](zhengwen/data-type/lie-biao-list.md)
-  * [字典（Dict）](zhengwen/data-type/zi-dian-dict.md)
 
