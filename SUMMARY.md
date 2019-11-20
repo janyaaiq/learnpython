@@ -10,4 +10,5 @@
   * [数字\(Number）](text/data-type/number.md)
   * [字符串\(String/str\)](text/data-type/string.md)
   * [列表（List）](text/data-type/list.md)
+  * [练习1](text/data-type/lian-xi-1.md)
 
