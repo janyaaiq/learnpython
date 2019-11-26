@@ -13,7 +13,7 @@
   * [练习1](text/data-type/lian-xi-1.md)
 * [循环与控制语句](text/xun-huan-yu-kong-zhi-yu-ju/README.md)
   * [循环](text/xun-huan-yu-kong-zhi-yu-ju/xun-huan.md)
-  * [控制语句](text/xun-huan-yu-kong-zhi-yu-ju/kong-zhi-yu-ju.md)
   * [冒号与缩进](text/xun-huan-yu-kong-zhi-yu-ju/mao-hao-yu-suo-jin.md)
+  * [控制语句](text/xun-huan-yu-kong-zhi-yu-ju/kong-zhi-yu-ju.md)
 * [Untitled](untitled.md)
 

@@ -13,8 +13,8 @@ list1 = list(range(1,11)) #定义一个包含1-10的列表list1
 print(list1)  #查看列表的值
 sum = 0    #初始化计算和的变量sum
 for a in list1:    #循环访问list1中的元素，并赋值给变量a
-  sum =  sum + a   #将sum与读取到的元素相加，并把新的相加结果赋值给sum
-  print(a,sum)     #查看变量a和sum的值
+    sum =  sum + a   #将sum与读取到的元素相加，并把新的相加结果赋值给sum
+    print(a,sum)     #查看变量a和sum的值
 print(sum)         #完成循环后，打印出加和的结果
 ```
 
