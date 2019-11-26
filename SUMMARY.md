@@ -11,4 +11,9 @@
   * [字符串\(String/str\)](text/data-type/string.md)
   * [列表（List）](text/data-type/list.md)
   * [练习1](text/data-type/lian-xi-1.md)
+* [循环与控制语句](text/xun-huan-yu-kong-zhi-yu-ju/README.md)
+  * [循环](text/xun-huan-yu-kong-zhi-yu-ju/xun-huan.md)
+  * [控制语句](text/xun-huan-yu-kong-zhi-yu-ju/kong-zhi-yu-ju.md)
+  * [冒号与缩进](text/xun-huan-yu-kong-zhi-yu-ju/mao-hao-yu-suo-jin.md)
+* [Untitled](untitled.md)
 
