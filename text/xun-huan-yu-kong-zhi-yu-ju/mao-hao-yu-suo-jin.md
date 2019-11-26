@@ -6,7 +6,7 @@ description: '参考资料：http://www.haimengli.com/python-mh-sj/'
 
 在学习循环时你可能注意到了一个细节：从for循环代码中的冒号:后开始、下一行内容的前面，会空几个格，但这是为什么呢？
 
-```text
+```python
 list1 = list(range(1,11))
 print(list1)
 sum = 0
