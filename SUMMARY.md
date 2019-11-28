@@ -14,6 +14,6 @@
 * [循环与控制语句](text/xun-huan-yu-kong-zhi-yu-ju/README.md)
   * [循环](text/xun-huan-yu-kong-zhi-yu-ju/xun-huan.md)
   * [冒号与缩进](text/xun-huan-yu-kong-zhi-yu-ju/mao-hao-yu-suo-jin.md)
-  * [控制语句](text/xun-huan-yu-kong-zhi-yu-ju/kong-zhi-yu-ju.md)
-  * [练习2](text/xun-huan-yu-kong-zhi-yu-ju/lian-xi-2.md)
+  * [控制语句](text/xun-huan-yu-kong-zhi-yu-ju/ifelse.md)
+  * [练习2](text/xun-huan-yu-kong-zhi-yu-ju/lianxi2.md)
 
