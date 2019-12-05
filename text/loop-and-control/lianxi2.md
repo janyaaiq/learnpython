@@ -10,7 +10,7 @@ for a in range(1,11):  ##进入for循环
     #当"a%2 == 0"这个条件成立时，表明a是偶数
         sum = sum + a  ##用8个空格缩进表明这是if判断的代码块
     print(a,sum)       ##用4个空格缩进表明这是for循环的代码块
-print(sum)             
+print(sum)
 ```
 
 练习：
