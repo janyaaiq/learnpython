@@ -57,4 +57,41 @@
         </td>
     </tr>
   </tbody>
-</table>
+</table>取余与取模的区别：
+
+取余与取模计算的公式相似，都是x-y\*取整\(x/y\)。不同的地方是取余与取模用的取整方法不同。**取余对商向0取整，取模对商向下取整。**
+
+* **向0取整：不论正数负数，都只取小数的整数部分。如3.6取整为3，-3.6取整未-3.**
+* **向下取整：当小数为正数，则取整数部分，如3.6取整为3；当小数为负数，取整数部分并减1。如-3.6，取整为-4：-3\(整数部分\)-1**
+
+```python
+#向0取整函数int
+quot1 = int(2.6) #正数向0取整
+quot2 = int(-2.6) #负数向0取整
+print("正数向0取整：",quot1)
+print("负数向0取整：",quot2)
+#向下取整函数floor
+from math import floor #导入floor函数
+quot3 =  floor(2.6) #正数向下取整
+quot4 =  floor(-2.6) #负数向下取整
+print("正数向下取整：",quot1)
+print("负数向下取整：",quot2)
+```
+
+取模与取余的实现代码：
+
+```python
+from math import floor
+x=7
+y=-3
+print("%取模计算结果",x%y)
+
+mod1=x-y*floor(x/y) #取模
+print("取模计算的商：",floor(x/y))
+print("取模计算的模：",mod1)
+
+rem1=x-y*int(x/y)   #取余
+print("取余计算的商：",int(x/y))
+print("取余计算的余：",rem1)
+```
+
