@@ -41,9 +41,10 @@ a = "yuce"
 b = "bio"
 c = a + b #用+号将字符串直接连接起来
 print(c)
+
 ```
 
-## 扩展
+#### 扩展
 
 更多字符串相关知识，[点击](https://www.runoob.com/python3/python3-data-type.html)前往学习。
 

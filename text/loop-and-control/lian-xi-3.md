@@ -6,11 +6,3 @@
 
 3.使用for循环计算list1之间所有偶数之和。
 
-
-
-test
-
-test
-
-test
-
