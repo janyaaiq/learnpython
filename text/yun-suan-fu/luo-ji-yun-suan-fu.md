@@ -12,7 +12,7 @@
 
 例如：输出列表\[1，2，3...20\]中，大于10的偶数。
 
-```text
+```python
 list1=list(range(1,21))
 for a in list1:
     if a%2==0 and a>10:
