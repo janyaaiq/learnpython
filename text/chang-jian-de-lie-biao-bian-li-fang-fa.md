@@ -22,5 +22,11 @@ for i in range(0,len(list1)): #range函数生成一个0，1，2，3的序列，�
     print(list1[i])
 ```
 
-\*\*\*\*
+**3.使用**[**枚举函数\(enumerate\)**](https://www.runoob.com/python3/python3-func-enumerate.html)**遍历索引和元素：**
+
+```python
+list1 = ["a","b","c","d"]
+for i, a in enumerate(list1):
+    print("列表索引：",i,"列表元素：",a)
+```
 
