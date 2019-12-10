@@ -24,7 +24,7 @@ for i in range(0,len(list1)): #range函数生成一个0，1，2，3的序列，�
 
 **3.使用**[**枚举函数\(enumerate\)**](https://www.runoob.com/python3/python3-func-enumerate.html)**遍历索引和元素：**
 
-enumerate函数将一个可遍历的数据\(如列表、元组或字符串\)组合为一个索引序列，同时列出数据和数据下标。**可以使用list函数将枚举结果转换为list进行查看**
+enumerate函数遍历一个序列\(如列表、元组或字符串\), 将索引和元素组合为一个元组。enumerate函数的返回值**可以使用list函数转换为列表。**
 
 ```python
 list1 = ["a","b","c","d"]
