@@ -1,4 +1,4 @@
-# Rnage函数简介
+# Range函数简介
 
 **Range函数简介**
 

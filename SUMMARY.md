@@ -25,5 +25,5 @@
   * [逻辑运算符](text/yun-suan-fu/luo-ji-yun-suan-fu.md)
   * [成员运算符](text/yun-suan-fu/cheng-yuan-yun-suan-fu.md)
 * [常见的列表遍历方法](text/chang-jian-de-lie-biao-bian-li-fang-fa.md)
-* [Rnage函数简介](text/rnage-han-shu-jian-jie.md)
+* [Range函数简介](text/rnage-han-shu-jian-jie.md)
 
