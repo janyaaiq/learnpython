@@ -2,17 +2,17 @@
 
 ## Jupyter notebook简介
 
-#### 1. 什么是Jupyter Notebook
+### 1. 什么是Jupyter Notebook
 
 Jupyter Notebook是一种基于网页、可交互的python编程笔记本，可以在网页中直接编写python代码和运行代码，代码的运行结果也会直接在代码块下显示。 如在编程过程中需要编写说明文档，可在同一个页面中直接编写，便于用作说明和解释。
 
 简而言之，对于学习python的新手而言，可以在Jupyter中测试代码，同时记录笔记。
 
-#### 2. 如何使用Jupyter Notebook
+### 2. 如何使用Jupyter Notebook
 
 记住图片中的图标，从左往右分别是：
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image-1.png)
 
 1.保存：保存当前文档
 
