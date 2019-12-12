@@ -11,4 +11,7 @@ list1 = array.tolist()
 
 1. 请使用for循环，计算list1所有数值的和。
 2. 请结合for循环和if判断，计算list1中所有奇数的和。
+3. 请结合for循环和if判断，计算list1中“大于500”的奇数之和。
+
+
 
