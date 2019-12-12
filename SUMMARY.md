@@ -19,6 +19,7 @@
   * [条件判断表达式](text/loop-and-control/tiao-jian-pan-duan-biao-da-shi.md)
   * [练习2](text/loop-and-control/lianxi2.md)
   * [练习3](text/loop-and-control/lian-xi-3.md)
+  * [练习4](text/loop-and-control/lian-xi-4.md)
 * [运算符](text/yun-suan-fu/README.md)
   * [算术运算符（自学）](text/yun-suan-fu/suan-shu-yun-suan-fu-zi-xue.md)
   * [比较运算符](text/yun-suan-fu/bi-jiao-yun-suan-fu.md)
