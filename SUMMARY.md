@@ -26,7 +26,8 @@
   * [练习2](text/loop-and-control/lianxi2.md)
   * [练习3](text/loop-and-control/lian-xi-3.md)
   * [练习4](text/loop-and-control/lian-xi-4.md)
-* [补充内容](text/bu-chong-nei-rong/README.md)
+* [操作列表](text/bu-chong-nei-rong/README.md)
   * [常见的列表遍历方法](text/bu-chong-nei-rong/chang-jian-de-lie-biao-bian-li-fang-fa.md)
   * [Range函数简介](text/bu-chong-nei-rong/rnage-han-shu-jian-jie.md)
+* [函数](text/han-shu.md)
 
