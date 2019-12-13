@@ -26,6 +26,7 @@
   * [赋值运算符（自学）](text/yun-suan-fu/fu-zhi-yun-suan-fu-zi-xue.md)
   * [逻辑运算符](text/yun-suan-fu/luo-ji-yun-suan-fu.md)
   * [成员运算符](text/yun-suan-fu/cheng-yuan-yun-suan-fu.md)
-* [常见的列表遍历方法](text/chang-jian-de-lie-biao-bian-li-fang-fa.md)
-* [Range函数简介](text/rnage-han-shu-jian-jie.md)
+* [补充内容](text/bu-chong-nei-rong/README.md)
+  * [常见的列表遍历方法](text/bu-chong-nei-rong/chang-jian-de-lie-biao-bian-li-fang-fa.md)
+  * [Range函数简介](text/bu-chong-nei-rong/rnage-han-shu-jian-jie.md)
 
