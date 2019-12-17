@@ -31,21 +31,30 @@ list1.append(10)
 print(list1)
 ```
 
-使用pop\(\)方法，移除列表中的一个元素，并且返回该元素的值。
+**移除列表元素**
 
-将待删除的元素索引写在圆括号中，不写则默认是-1
+1. 使用pop\(\)方法，移除列表中的一个元素，**并且返回该元素的值**。将待删除的元素索引写在圆括号中，不写则默认是-1
+2. 使用del 语句删除列表指定索引的元素，**无返回值**。
 
 ```python
-#pop语法：list.pop([index=-1])
+#pop方法
 list1 = [1,2,3,4,5,6,7]
-a = list1.pop()
-print('移除的元素是:',a,"移除后的列表是:",list)
-b = list1.pop(0)
-c = list1.pop(1)
-print(a,b,c)
+a = list1.pop() #移除列表中索引为-1的元素
+print('移除的元素是:',a,"移除后的列表是:",list1)
+b = list1.pop(0) #移除列表中索引为0的元素
+print('移除的元素是:',b,"移除后的列表是:",list1)
+c = list1.pop(1) #移除列表中索引为1的元素
+print('移除的元素是:',c,"移除后的列表是:",list1)
 ```
 
-l
+```python
+#del 语句
+list1 = [1,2,3,4,5,6,7]
+del list1[1]
+print(list1)
+```
 
 
+
+扩展学习：[https://www.runoob.com/python3/python3-list.html](https://www.runoob.com/python3/python3-list.html)
 

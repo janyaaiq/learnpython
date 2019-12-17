@@ -32,4 +32,5 @@
   * [列表操作](text/bu-chong-nei-rong/lie-biao-cao-zuo.md)
 * [函数](text/han-shu/README.md)
   * [函数的参数](text/han-shu/han-shu-de-can-shu.md)
+  * [函数的调用](text/han-shu/han-shu-de-tiao-yong.md)
 
