@@ -14,7 +14,7 @@ for a in list1:
 
 **2.也可以使用索引进行遍历：**
 
-使用[range函数](rnage-han-shu-jian-jie.md)生成一个索引序列，通过循环读取索引值，遍历list1的元素。
+使用[range函数](range-function.md)生成一个索引序列，通过循环读取索引值，遍历list1的元素。
 
 ```python
 list1 = [1,2,3,4]
