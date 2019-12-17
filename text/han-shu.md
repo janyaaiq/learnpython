@@ -12,13 +12,14 @@
 自定义列表加和函数
 
 ```python
-def addition(list1):
-    result = a + b
-    return result
+def sum_list(list1):
+    sum = 0
+    for a in list1:
+        sum += a
+    return sum
     
-x = 10
-y = 20
-res = addition(x,y)
+l1 = [10,20,50,30]
+res = sum_list(了)
 print("加法函数的结果是:",res)
 ```
 
