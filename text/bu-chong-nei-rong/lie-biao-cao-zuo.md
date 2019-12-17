@@ -23,7 +23,7 @@ print(list1)
 
 **增加列表元素**
 
-使用append\(\)方法在**列表末尾**增加元素
+使用append\(\)方法在**列表末尾**增加元素，将待添加的元素写在圆括号中。
 
 ```python
 list1 = [1,2,3,4]
@@ -31,15 +31,21 @@ list1.append(10)
 print(list1)
 ```
 
-使用pop\(\)方法，移除列表中的一个元素（默认最后一个元素），并且返回该元素的值。
+使用pop\(\)方法，移除列表中的一个元素，并且返回该元素的值。
+
+将待删除的元素索引写在圆括号中，不写则默认是-1
 
 ```python
 #pop语法：list.pop([index=-1])
-list1 = [1,2,3,4]
-list1.poppop(10)
+list1 = [1,2,3,4,5,6,7]
+a = list1.pop()
+print('移除的元素是:',a,"移除后的列表是:",list)
+b = list1.pop(0)
+c = list1.pop(1)
+print(a,b,c)
 ```
 
-list.pop\(\[index=-1\]\)
+l
 
 
 
