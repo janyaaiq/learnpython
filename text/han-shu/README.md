@@ -43,7 +43,7 @@ help(sum_list) #查看函数说明方法2
 
 #### **练习**
 
-定义一个名为max\_value\_index的函数，提取列表中最大值的正向索引，并返回索引值
+在下方的代码中，定义一个名为max\_value\_index的函数，提取列表中最大值的正向索引，并返回索引值
 
 ```python
 from numpy import *
