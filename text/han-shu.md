@@ -14,28 +14,34 @@
 ```python
 #自定义列表加和函数
 def sum_list(list1):
+    '''This is a function for list summation''' #函数说明
     sum = 0
     for a in list1:
         sum += a
-    print()
-    return sum
-    
-l1 = [10,20,50,30]
-res = sum_list(l1)
+    print(sum)
+    return sum #结束函数，返回sum值
+
+
+l1 = [10,20,50,30] #定义列表
+res = sum_list(l1) #调用函数 
 print("列表加和函数的结果是:",res)
+
+
+print(sum_list.__doc__) #查看函数文档方法1
+help(sum_list) #查看函数文档方法2
 ```
 
 如示例中代码所示：
 
-* 函数代码块以 **def** 关键词开头，后接函数标识符名称和圆括号 **\(\)**。
-* 圆括号之间可以用于定义参数，也可为空，即不需要参数。
-* 函数的第一行语句可以选择性地使用文档字符串—用于存放函数说明。
-* 函数内容以冒号起始，并且缩进。
-* **return \[表达式\]** 语句会结束函数，并返回一个值，即使后面有代码，也会用赋值语句可以将返回值保存到其他变量。
+* \[必选\]函数代码块以 **def** 关键词开头，后接函数标识符名称和圆括号 **\(\)**。
+* \[可选\]圆括号之间可以用于定义参数，也可为空，即不需要参数。
+* \[可选\]函数内的第一行可以使用三引号定义函数说明。
+* \[必选\]函数内容以冒号起始，并且缩进。
+* \[必选\]**return \[表达式\]** 语句会结束函数（如何return后面还有代码会跳过
+
+  ），并返回一个值，可以用赋值语句将返回值保存到其他变量。
 
 
 
-
-
-参考资料：[https://www.runoob.com/python3/python3-function.html](https://www.runoob.com/python3/python3-function.html)
+扩展资料：[https://www.runoob.com/python3/python3-function.html](https://www.runoob.com/python3/python3-function.html)
 
