@@ -9,9 +9,17 @@
 
 实现了一个或多个功能的代码集合
 
+自定义列表加和函数
+
 ```python
-def addition(ab):
+def addition(list1):
+    result = a + b
+    return result
     
+x = 10
+y = 20
+res = addition(x,y)
+print("加法函数的结果是:",res)
 ```
 
 **如何定义函数**
