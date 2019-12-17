@@ -29,5 +29,7 @@
 * [操作列表](text/bu-chong-nei-rong/README.md)
   * [常见的列表遍历方法](text/bu-chong-nei-rong/chang-jian-de-lie-biao-bian-li-fang-fa.md)
   * [Range函数简介](text/bu-chong-nei-rong/rnage-han-shu-jian-jie.md)
-* [函数](text/han-shu.md)
+  * [列表操作](text/bu-chong-nei-rong/lie-biao-cao-zuo.md)
+* [函数](text/han-shu/README.md)
+  * [函数的参数](text/han-shu/han-shu-de-can-shu.md)
 

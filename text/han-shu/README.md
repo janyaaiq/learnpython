@@ -41,6 +41,8 @@ help(sum_list) #查看函数文档方法2
 
   ），并返回一个值，可以用赋值语句将返回值保存到其他变量。
 
+练习：
+
 
 
 扩展资料：[https://www.runoob.com/python3/python3-function.html](https://www.runoob.com/python3/python3-function.html)
