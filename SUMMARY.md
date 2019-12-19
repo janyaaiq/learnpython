@@ -23,7 +23,7 @@
   * [冒号与缩进](text/loop-and-control/mao-hao-yu-suo-jin.md)
   * [条件控制语句](text/loop-and-control/ifelse.md)
   * [条件判断表达式](text/loop-and-control/tiao-jian-pan-duan-biao-da-shi.md)
-  * [跳出循环](text/loop-and-control/break_loop.md)
+  * [跳出循环](text/loop-and-control/jump_loop.md)
   * [练习2](text/loop-and-control/lianxi2.md)
   * [练习3](text/loop-and-control/lian-xi-3.md)
   * [练习4](text/loop-and-control/lian-xi-4.md)
