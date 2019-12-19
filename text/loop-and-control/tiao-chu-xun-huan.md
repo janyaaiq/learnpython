@@ -14,9 +14,11 @@ for i in range(1,11):
 
 ```python
 
-#输出列表中第一个值为2的元素的索引
+#输出列表中第一个值为2的元素索引
 list1 = [1,5,8,2,0,10,40,2]
 for i,v in enumerate(list1):
-    if 
+    if  v == 2:
+        print("第一个值为2的元素索引是：",i)
+        break
 ```
 
