@@ -90,6 +90,8 @@ print(" 浅拷贝的list3的元素是：",list3)
 print("深度拷贝的list4的元素是：",list4)
 ```
 
+**深度拷贝可以将list1的值重新构造对象，将list4指向新的对象，因此操作list1时，不会影响到list4**
+
 
 
 扩展学习：[https://www.runoob.com/python3/python3-list.html](https://www.runoob.com/python3/python3-list.html)
