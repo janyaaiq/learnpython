@@ -11,6 +11,8 @@
   * [字符串\(String/str\)](text/data-type/string.md)
   * [列表（List）](text/data-type/list.md)
   * [元组\(Tuple\)](text/data-type/yuan-zu.md)
+  * [数据类型与对象](text/data-type/shu-ju-lei-xing-yu-dui-xiang.md)
+  * [可变对象与不可变对象](text/data-type/ke-bian-dui-xiang-yu-bu-ke-bian-dui-xiang.md)
   * [练习1](text/data-type/lian-xi-1.md)
 * [运算符](text/yun-suan-fu/README.md)
   * [算术运算符（自学）](text/yun-suan-fu/suan-shu-yun-suan-fu-zi-xue.md)
