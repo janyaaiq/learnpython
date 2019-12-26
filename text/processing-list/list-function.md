@@ -85,12 +85,12 @@ print("        list1的元素是：",list1)
 print("   赋值的list2的元素是：",list2)
 print("深度拷贝的list3的元素是：",list3)
 
-print("        list1指向的地址是：",idlist1)
-print("   赋值的list2指向的地址是：",list2)
-print("深度拷贝的list3指向的地址是：",list3)
+print("        list1指向的地址是：",id(list1))
+print("   赋值的list2指向的地址是：",id(list2))
+print("深度拷贝的list3指向的地址是：",id(list3))
 ```
 
-赋值: 将list1指向的对象的地址赋值给list2，让list2指向该地址。
+赋值，将list1指向对象的地址赋值给list2，让list2指向该地址。
 
 深度拷贝，在另一块地址中创建一个新的对象，并将新对象的地址赋值给list3，让list3指向该地址。
 
