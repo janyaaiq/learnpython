@@ -68,33 +68,38 @@ print(list1)
 
 使用”=“赋值
 
-使用copy\(\)方法浅拷贝
-
 使用copy模块的deepcopy方法深度拷贝
 
 ```python
 import copy
-list1 = [[1,2,3],2,3,4,5,6,7]
+list1 = [[1,2,3],2,3,4]
 
 list2 = list1  #直接赋值
-list3 = list1.copy() #浅拷贝
-list4 = copy.deepcopy(list1) #深度拷贝
+list3 = copy.deepcopy(list1) #深度拷贝
 
 
-list1.append(8)
+list1.append(5)
 list1[0].append(4)
 
 print("        list1的元素是：",list1)
 print("   赋值的list2的元素是：",list2)
-print(" 浅拷贝的list3的元素是：",list3)
-print("深度拷贝的list4的元素是：",list4)
+print("深度拷贝的list3的元素是：",list3)
+
+print("        list1指向的地址是：",idlist1)
+print("   赋值的list2指向的地址是：",list2)
+print("深度拷贝的list3指向的地址是：",list3)
 ```
 
-**深度拷贝可以将list1的值重新构造对象，将list4指向新的对象，因此操作list1时，不会影响到list4**
+赋值: 将list1指向的对象的地址赋值给list2，让list2指向该地址。
+
+深度拷贝，在另一块地址中创建一个新的对象，并将新对象的地址赋值给list3，让list3指向该地址。
 
 
 
 扩展学习：[https://www.runoob.com/python3/python3-list.html](https://www.runoob.com/python3/python3-list.html)
 
-浅拷贝与深度拷贝：[https://www.runoob.com/w3cnote/python-understanding-dict-copy-shallow-or-deep.html](https://www.runoob.com/w3cnote/python-understanding-dict-copy-shallow-or-deep.html)
+浅拷贝与深度拷贝：
+
+* [https://www.jianshu.com/p/66e6f3745fc1](https://www.jianshu.com/p/66e6f3745fc1)
+* [https://www.runoob.com/w3cnote/python-understanding-dict-copy-shallow-or-deep.html](https://www.runoob.com/w3cnote/python-understanding-dict-copy-shallow-or-deep.html)
 
