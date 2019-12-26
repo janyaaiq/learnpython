@@ -34,6 +34,6 @@
   * [Range函数简介](text/processing-list/range-function.md)
   * [列表操作方法](text/processing-list/list-function.md)
 * [函数](text/function/README.md)
-  * [函数的参数](text/function/function-argu.md)
-  * [函数的调用](text/function/use-function.md)
+  * [函数的参数与调用](text/function/function-argu.md)
+  * [练习5](text/function/lian-xi-5.md)
 
