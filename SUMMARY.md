@@ -39,7 +39,11 @@
 * [本地使用python](text/ben-di-shi-yong-python-1/README.md)
   * [windows下安装Python](text/ben-di-shi-yong-python-1/windows-xia-an-zhuang-python.md)
   * [mac下安装python](text/ben-di-shi-yong-python-1/mac-xia-an-zhuang-python.md)
-  * [模块安装](text/ben-di-shi-yong-python-1/mo-kuai-an-zhuang.md)
-  * [几个常用工具](text/ben-di-shi-yong-python-1/ji-ge-chang-yong-gong-ju.md)
+  * [Python的使用（windows）](text/ben-di-shi-yong-python-1/python-de-shi-yong-windows.md)
+  * [cmd工具](text/ben-di-shi-yong-python-1/ji-ge-chang-yong-gong-ju.md)
+  * [PowerShell](text/ben-di-shi-yong-python-1/powershell.md)
+* [模块安装与调用](text/mo-kuai-an-zhuang-yu-tiao-yong/README.md)
+  * [模块调用](text/mo-kuai-an-zhuang-yu-tiao-yong/mo-kuai-tiao-yong.md)
+  * [模块安装](text/mo-kuai-an-zhuang-yu-tiao-yong/mo-kuai-an-zhuang.md)
 * [实战](text/shi-zhan.md)
 

@@ -1,10 +1,18 @@
-# 几个常用工具
+# cmd工具
 
-### cmd\(win7\)
+### cmd
 
 cmd是windows下的命令行执行程序，在cmd中，可以使用命令运行windows中安装的程序。
 
 #### 如何打开cmd
+
+win10:
+
+在左下角搜索栏中输入“cmd”，打开搜索出的“命令提示符”程序。
+
+![](../../.gitbook/assets/image%20%2820%29.png)
+
+win7:
 
 1.打开开始菜单-&gt;运行-&gt;输入cmd-&gt;回车 
 
@@ -12,11 +20,9 @@ cmd是windows下的命令行执行程序，在cmd中，可以使用命令运行w
 
 3.win7打开开始菜单之后可以直接输入cmd回车
 
-#### 如何使用cmd
+#### 使用cmd安装模块
 
-例如我们安装好的python程序，可以在cmd中调用
-
-
+{% page-ref page="../mo-kuai-an-zhuang-yu-tiao-yong/mo-kuai-an-zhuang.md" %}
 
 
 
