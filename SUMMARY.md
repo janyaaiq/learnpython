@@ -36,5 +36,10 @@
 * [函数](text/function/README.md)
   * [函数的参数与调用](text/function/function-argu.md)
   * [练习5](text/function/lian-xi-5.md)
+* [本地使用python](text/ben-di-shi-yong-python-1/README.md)
+  * [windows下安装Python](text/ben-di-shi-yong-python-1/windows-xia-an-zhuang-python.md)
+  * [mac下安装python](text/ben-di-shi-yong-python-1/mac-xia-an-zhuang-python.md)
+  * [模块安装](text/ben-di-shi-yong-python-1/mo-kuai-an-zhuang.md)
+  * [几个常用工具](text/ben-di-shi-yong-python-1/ji-ge-chang-yong-gong-ju.md)
 * [实战](text/shi-zhan.md)
 

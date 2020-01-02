@@ -20,7 +20,7 @@ print(sum)         #完成循环后，打印出加和的结果
 
 ### FOR循环的机制
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
 
 

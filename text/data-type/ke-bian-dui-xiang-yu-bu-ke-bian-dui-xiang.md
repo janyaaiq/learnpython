@@ -17,7 +17,7 @@ print(id(a))
 
 对指向不可变对象的变量进行操作时，该变量会指向新的对象的内存地址，不改变之前对象的值。
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 ```python
 a = 10
@@ -29,7 +29,7 @@ print(id(a))
 
 假如变量a是一个列表，将变量a赋值给变量b，b会指向列表的内存地址，当对a或b进行操作（非赋值操作），都会修改列表的值，但是不改变列表的内存地址。
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 ```python
 a = [1,2,3]
